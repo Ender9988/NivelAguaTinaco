@@ -1,0 +1,11 @@
+D:\Word\Interaccion Humano Computadora\Programas\Tinaco\Tinaco\bin\Debug\Tinaco.exe.config
+D:\Word\Interaccion Humano Computadora\Programas\Tinaco\Tinaco\bin\Debug\Tinaco.exe
+D:\Word\Interaccion Humano Computadora\Programas\Tinaco\Tinaco\bin\Debug\Tinaco.pdb
+D:\Word\Interaccion Humano Computadora\Programas\Tinaco\Tinaco\obj\Debug\Tinaco.csproj.AssemblyReference.cache
+D:\Word\Interaccion Humano Computadora\Programas\Tinaco\Tinaco\obj\Debug\Tinaco.csproj.SuggestedBindingRedirects.cache
+D:\Word\Interaccion Humano Computadora\Programas\Tinaco\Tinaco\obj\Debug\Tinaco.Properties.Resources.resources
+D:\Word\Interaccion Humano Computadora\Programas\Tinaco\Tinaco\obj\Debug\Tinaco.csproj.GenerateResource.cache
+D:\Word\Interaccion Humano Computadora\Programas\Tinaco\Tinaco\obj\Debug\Tinaco.csproj.CoreCompileInputs.cache
+D:\Word\Interaccion Humano Computadora\Programas\Tinaco\Tinaco\obj\Debug\Tinaco.exe
+D:\Word\Interaccion Humano Computadora\Programas\Tinaco\Tinaco\obj\Debug\Tinaco.pdb
+D:\Word\Interaccion Humano Computadora\Programas\Tinaco\Tinaco\obj\Debug\Tinaco.Bomba.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tinaco", "Tinaco\Tinaco.csproj", "{A3BF7260-478A-4886-8BEC-81C12793047B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3BF7260-478A-4886-8BEC-81C12793047B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3BF7260-478A-4886-8BEC-81C12793047B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3BF7260-478A-4886-8BEC-81C12793047B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3BF7260-478A-4886-8BEC-81C12793047B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C257FEBB-9352-4647-88F5-F1937BDD8FF3}
+	EndGlobalSection
+EndGlobal
